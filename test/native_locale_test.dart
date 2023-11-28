@@ -1,9 +1,9 @@
 import 'dart:ui';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:native_locale/native_locale.dart';
-import 'package:native_locale/native_locale_method_channel.dart';
-import 'package:native_locale/native_locale_platform_interface.dart';
+import 'package:native_locale/src/native_locale.dart';
+import 'package:native_locale/src/native_locale_method_channel.dart';
+import 'package:native_locale/src/native_locale_platform_interface.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockNativeLocalePlatform

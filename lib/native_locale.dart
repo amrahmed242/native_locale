@@ -1,13 +1,3 @@
-import 'dart:ui';
+library native_locale;
 
-import 'native_locale_platform_interface.dart';
-
-class NativeLocale {
-  Future<bool?> setNativeLocale(Locale locale) {
-    return NativeLocalePlatform.instance.setNativeLocale(locale);
-  }
-
-  Future<String?> getNativeLocale() {
-    return NativeLocalePlatform.instance.getNativeLocale();
-  }
-}
+export './src/native_locale.dart';

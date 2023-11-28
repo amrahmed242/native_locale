@@ -2,8 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-
-import 'native_locale_platform_interface.dart';
+import 'package:native_locale/src/native_locale_platform_interface.dart';
 
 /// An implementation of [NativeLocalePlatform] that uses method channels.
 class MethodChannelNativeLocale extends NativeLocalePlatform {
