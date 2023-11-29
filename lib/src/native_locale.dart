@@ -1,4 +1,3 @@
-
 import 'dart:ui';
 
 import 'native_locale_platform_interface.dart';
