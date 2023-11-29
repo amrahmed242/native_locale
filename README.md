@@ -2,7 +2,13 @@
 
 A flutter plugin for getting and changing the native platform locale. 
 
-#### Platform Support
+## About
+
+Since the flutter localization is completely separate from the localization of the native app, you can face problems of unmatched locales when opening another native view that should be localized.
+This plugin helps you change the native localization of the app programmatically from the dart side.
+
+
+## Platform Support
 
 | Android | iOS |
 | :-----: | :-: |
