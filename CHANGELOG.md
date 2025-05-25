@@ -1,6 +1,6 @@
 ## 0.0.4
 
-- update to gradle version `8.1.0`
+- update to gradle version `8.1.0` (@AsmaaAlamrawy)
 
 ## 0.0.3
 
