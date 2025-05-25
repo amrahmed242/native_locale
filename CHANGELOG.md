@@ -1,3 +1,7 @@
+## 0.0.4
+
+- update to gradle version `8.1.0`
+
 ## 0.0.3
 
 - update readme.

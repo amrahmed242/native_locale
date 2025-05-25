@@ -1,6 +1,6 @@
 name: native_locale
 description: A flutter plugin for getting and changing the native platform locale.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/amrahmed242/native_locale
 
 environment:
